@@ -10,4 +10,4 @@ Should be described in Gemfile
 
 - proj:update_all &ndash; Updates all projects
 - proj:gemfile &ndash; Generates new gemfile
-  (e.g. rake proj:gemfile\['rspec|sequel','/tmp/sok'\])
+  (e.g. rake proj:gemfile\\['rspec|sequel','/tmp/sok'\\])
