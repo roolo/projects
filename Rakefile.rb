@@ -16,6 +16,9 @@ namespace :proj do
         while (line = zshout.gets)
           puts line
         end
+        while (line = zsherr.gets)
+          puts line
+        end
       end
     end
   end
