@@ -11,7 +11,7 @@ namespace :proj do
         repository = f.gsub /\.git$/, ''
         Logger.new(STDOUT).info('Checking '){repository}
         zshin.puts 'cd %s'%repository
-        zshin.puts 'git up'
+        zshin.puts 'git upe'
         zshin.puts 'exit'
         while (line = zshout.gets)
           puts line
