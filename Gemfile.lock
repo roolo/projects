@@ -29,7 +29,7 @@ GEM
     pry-byebug (3.4.2)
       byebug (~> 9.0)
       pry (~> 0.10)
-    rake (12.0.0)
+    rake (12.3.3)
     rest-client (2.0.2)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
@@ -48,7 +48,7 @@ DEPENDENCIES
   powder (~> 0.3.0)
   pry (~> 0.10.4)
   pry-byebug (~> 3.4.2)
-  rake (~> 12.0.0)
+  rake (~> 12.3.3)
   rest-client (~> 2.0.2)
 
 BUNDLED WITH
